@@ -5,3 +5,6 @@
 [submodule "OptimalGoldstandardDesigns"]
 	path = OptimalGoldstandardDesigns
 	url = https://github.com/jan-imbi/optimalgoldstandarddesigns
+[submodule "adestr"]
+	path = adestr
+	url = https://github.com/jan-imbi/adestr

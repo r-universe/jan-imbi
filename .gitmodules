@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "OptimalGoldstandardDesigns"]
-	path = OptimalGoldstandardDesigns
-	url = https://github.com/jan-imbi/optimalgoldstandarddesigns
 [submodule "adestr"]
 	path = adestr
 	url = https://github.com/jan-imbi/adestr
